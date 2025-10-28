@@ -26,10 +26,7 @@ The Learner app uses:
 A clean black background for focus.
 Custom gradients and accent borders (selectedBGend, accentBorder).
 Apple-style layout spacing and smooth transitions.
-💡 Future Improvements
-Add CloudKit sync for multi-device progress tracking.
-Implement widgets for daily reminders.
-Integrate Game Center achievements.
+
 
 👩‍💻 Author
 
