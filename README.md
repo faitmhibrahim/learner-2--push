@@ -1,7 +1,9 @@
 Learner App
 An elegant iOS app built with SwiftUI and MVVM architecture that helps you track your daily learning progress across different subjects and time periods.
 ///
+
 Features
+
 🧠 Daily Learning Tracker: Log your learning sessions and monitor your progress.
 📅 Flexible Periods: Choose between weekly, monthly, or yearly tracking modes.
 🎯 Progress Visualization: Beautiful progress rings and activity views.
