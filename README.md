@@ -1,4 +1,3 @@
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-10-29 at 10 22 11" src="https://github.com/user-attachments/assets/a0299c72-7d72-4edc-9d29-c72d9255e21a" />Learner App
 An elegant iOS app built with SwiftUI and MVVM architecture that helps you track your daily learning progress across different subjects and time periods.
 -----
 
